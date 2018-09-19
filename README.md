@@ -1,15 +1,20 @@
-> Compilar dados sobre o sistema eleitoral brasileiro é uma tarefa complexa. Os tribunais não publicam dados de forma centralizada e muitas vezes utilizam formatos não-legíveis por máquina, como o PDF.
+# Zonas Eleitorais
 
-Este é um repositório para coordenar a compilação de dados por pessoas interessadas e proporcionar dados para baixar em formato aberto.
+A objetivo deste repositório é consolidar dados legíveis por máquina sobre o sistema eleitoral brasileiro. Os sites dos tribunais eleitorais são difíceis de navegar e, em sua maioria, não oferecem dados em formato aberto sobre zonas e seções eleitorais.
 
-Consulte as  [tarefas pendentes](https://github.com/vgeorge/zonas-eleitorais/issues) para participar.
+Por enquanto, este repositório oferece um arquivo com todas as zonas eleitorais do Brasil:
 
-# Fontes de dados
+* [zonas-eleitorais.csv]()
+
+# Contribua
+
+Quer ajudar este repositório a ficar melhor? Envie dúvidas e sugestões via [issues](https://github.com/mapaslivres/localidades/issues/new) e [pull requests](https://help.github.com/articles/creating-a-pull-request/) ou entre em contato com o [mantenedor](https://github.com/vgeorge).
+
+Conheça a [lista de contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
+
+# Referências
 
 Zonas eleitorais:
 
-* [TSE](http://www.tse.jus.br/eleitor/zonas-eleitorais/pesquisa-a-zonas-eleitorais)
-
-Seções eleitorais:
-
-* [São Paulo](http://www.tre-sp.jus.br/eleitor/titulo-e-local-de-votacao/consulta-por-zona-eleitoral-e-bairro)
+* [Pesquisa de zonas eleitorias no TSE](http://www.tse.jus.br/eleitor/zonas-eleitorais/pesquisa-a-zonas-eleitorais)
+* [Consulta aos Locais de Votação em São Paulo](http://www.tre-sp.jus.br/eleitor/titulo-e-local-de-votacao/consulta-por-zona-eleitoral-e-bairro)
