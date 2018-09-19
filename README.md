@@ -4,7 +4,7 @@ A objetivo deste repositório é consolidar dados legíveis por máquina sobre o
 
 Por enquanto, este repositório oferece um arquivo com todas as zonas eleitorais do Brasil:
 
-* [zonas-eleitorais.csv]()
+* [zonas-eleitorais.csv](zonas-eleitorais.csv)
 
 # Contribua
 
