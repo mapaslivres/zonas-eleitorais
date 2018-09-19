@@ -16,5 +16,5 @@ Conheça a [lista de contribuidores](https://github.com/mapaslivres/zonas-eleito
 
 Zonas eleitorais:
 
-* [Pesquisa de zonas eleitorias no TSE](http://www.tse.jus.br/eleitor/zonas-eleitorais/pesquisa-a-zonas-eleitorais)
-* [Consulta aos Locais de Votação em São Paulo](http://www.tre-sp.jus.br/eleitor/titulo-e-local-de-votacao/consulta-por-zona-eleitoral-e-bairro)
+* [Pesquisa de zonas eleitorais no TSE](http://www.tse.jus.br/eleitor/zonas-eleitorais/pesquisa-a-zonas-eleitorais)
+* [Consulta aos locais de votação em São Paulo](http://www.tre-sp.jus.br/eleitor/titulo-e-local-de-votacao/consulta-por-zona-eleitoral-e-bairro)
