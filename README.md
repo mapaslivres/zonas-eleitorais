@@ -8,9 +8,9 @@ Por enquanto, este repositório oferece um arquivo com todas as zonas eleitorais
 
 # Contribua
 
-Quer ajudar este repositório a ficar melhor? Envie dúvidas e sugestões via [issues](https://github.com/mapaslivres/localidades/issues/new) e [pull requests](https://help.github.com/articles/creating-a-pull-request/) ou entre em contato com o [mantenedor](https://github.com/vgeorge).
+Quer ajudar este repositório a ficar melhor? Envie dúvidas e sugestões via [issues](https://github.com/mapaslivres/zonas-eleitorais/issues/new) e [pull requests](https://help.github.com/articles/creating-a-pull-request/) ou entre em contato com o [mantenedor](https://github.com/vgeorge).
 
-Conheça a [lista de contribuidores](https://github.com/mapaslivres/localidades/graphs/contributors).
+Conheça a [lista de contribuidores](https://github.com/mapaslivres/zonas-eleitorais/graphs/contributors).
 
 # Referências
 
